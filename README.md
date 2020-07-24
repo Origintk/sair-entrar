@@ -1,0 +1,2 @@
+# sair-entrar
+simple scripts
